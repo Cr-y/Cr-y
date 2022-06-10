@@ -1,10 +1,6 @@
-## :heartbeat: Welcome to my Github profile !
+### I'm Cry.
 
-### :satisfied: About Me
-
-I'm Cry.
-
-I'm a software engineering student and still learning expertise.
+### I'm a software engineering student and still learning expertise.
 
 [![My Skills](https://skillicons.dev/icons?i=java,go,html,vue,docker,git,vscode,github,idea,linux,md,mysql,nginx,py,redis,vite)](https://skillicons.dev)
 
